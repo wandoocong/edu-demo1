@@ -1,1 +1,4 @@
 spring.application.name: demo
+  
+API_URL: http://k8s-good-service.edu-goods.svc.cluster.local:80/api/v1/goods/
+
